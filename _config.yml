@@ -85,11 +85,11 @@ analytics:
 #  I spend a huge amount of time and effort to explore unsupervised training and their possible contribution to generalizability and bias of the Multilingual Language Model.
 
 author:
-  name             : "Xuan-Phi Nguyen"
+  name             : "Xuan-Phi Nguyen (Phi)"
   avatar           : "profile.png"
-  bio              : "Enthusiast in Deep Learning, NLP and specifically neural machine translation. <br><br>Ph.D Student at Nanyang Technological University, Singapore"
-  location         : "Singapore"
-  employer         :
+  bio              : "NLP, LLMs, Machine translation.<br><br>Research Scientist at Salesforce AI Research"
+  location         : "United States"
+  employer         : "Salesforce"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=HN8VxX4AAAAJ&hl=en"
   email            : "nxphi47@gmail.com"
