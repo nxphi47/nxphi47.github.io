@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuan-Phi Nguyen"
 title_separator          : "-"
 name                     : &name "Xuan-Phi Nguyen"
-description              : &description "A Deep Learning Researcher"
+description              : &description "AI research scientist building adaptive agents, reinforcement learning systems, and efficient large-scale training infrastructure."
 url                      : https://nxphi47.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,10 +86,10 @@ analytics:
 
 author:
   name             : "Xuan-Phi Nguyen (Phi)"
-  avatar           : "profile.png"
-  bio              : "NLP, LLMs, Machine translation.<br><br>Research Scientist at Salesforce AI Research"
+  avatar           : "profile_photo.jpeg"
+  bio              : "Agentic RL, reasoning agents, and efficient AI training systems.<br><br>Senior Research Scientist at Salesforce AI Research"
   location         : "United States"
-  employer         : "Salesforce"
+  employer         : "Salesforce AI Research"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=HN8VxX4AAAAJ&hl=en"
   email            : "nxphi47@gmail.com"
